@@ -7,7 +7,7 @@
    trends for multiple categories including men, women and kids'
   apparel, footwear, handbags, fashion accessories and beauty and many more
   
-  [Demo Link]{https://shimmering-vacherin-7a95eb.netlify.app/}
+  [Demo Link](https://shimmering-vacherin-7a95eb.netlify.app/)
 
   
 # Technology
